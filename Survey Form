@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <h1 id="title">FreeCodeCamp Survey Form</h1>
-<link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css">
+<link rel="stylesheet" href="styles.css">
 <p id="description">Help us improve our service and your experience with your feedback!</p>
 </head>
 
